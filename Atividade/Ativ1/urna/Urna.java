@@ -6,6 +6,5 @@ public class Urna {
 		// TODO Auto-generated constructor stub
 	}
 	
-	//fgfg
-
+	
 }
